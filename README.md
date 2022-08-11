@@ -1,2 +1,2 @@
 ### Simple example cronjob with nodejs
-https://morioh.com/p/2f06f4404ce5
+Demonstrate how to run cronjob where execute email function to send to users 
